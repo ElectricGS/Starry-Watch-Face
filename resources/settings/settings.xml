@@ -1,0 +1,16 @@
+<settings>
+
+    <setting propertyKey="@Properties.TextColor" title="@Strings.ColorSettingsTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.COLOR_BLACK</listEntry>
+            <listEntry value="0xffffff">@Strings.COLOR_WHITE</listEntry>
+            <listEntry value="0x0D5D56">@Strings.COLOR_CARIBBEAN_CURRENT</listEntry>
+            <listEntry value="0x2DE1C2">@Strings.COLOR_TURQUOISE</listEntry>
+            <listEntry value="0x593F62">@Strings.COLOR_ENGLISH_VIOLET</listEntry>  
+            <listEntry value="0x8499B1">@Strings.COLOR_CADET_GRAY</listEntry>  
+            <listEntry value="0xD7F171">@Strings.COLOR_MINDARO</listEntry>  
+            <listEntry value="0x420C14">@Strings.COLOR_CHOCOLATE_COSMOS</listEntry> 
+            <listEntry value="0xEFF7CF">@Strings.COLOR_CREAM</listEntry> 
+        </settingConfig>
+    </setting>
+</settings>

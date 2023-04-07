@@ -1,0 +1,14 @@
+<strings>
+    <string id="AppName">Starry Watch Face</string>
+    <string id="ColorSettingsTitle">Change Text Color</string>
+    <!--COLORS-->
+    <string id="COLOR_BLACK">Black</string>
+    <string id="COLOR_WHITE">White</string>
+    <string id="COLOR_CARIBBEAN_CURRENT">Caribbean Current</string>
+    <string id="COLOR_TURQUOISE">Turquoise</string>
+    <string id="COLOR_ENGLISH_VIOLET">English Violet</string>
+    <string id="COLOR_CADET_GRAY">Cadet Gray</string>
+    <string id="COLOR_MINDARO">Mindaro</string>
+    <string id="COLOR_CHOCOLATE_COSMOS">Chocolate Cosmos</string>
+    <string id="COLOR_CREAM">Cream</string>
+</strings>

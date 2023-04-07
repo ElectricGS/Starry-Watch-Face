@@ -1,0 +1,7 @@
+<layout id="WatchFace">
+    <bitmap id="Background" filename="../drawables/starry_night.png"/>
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_SYSTEM_NUMBER_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    <label id="DateLabel" x="center" y="center" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    <label id="TempLabel" x="center" y="center" font="Graphics.FONT_SYSTEM_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="HeartRateLabel" x="center" y="center" font="Graphics.FONT_SYSTEM_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+</layout>
